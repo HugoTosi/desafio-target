@@ -6,7 +6,7 @@ se o número informado pertence ou não a sequência. */
 
 import java.util.Scanner;
 
-public class Main {
+public class Exercicio1 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
